@@ -1,0 +1,7 @@
+{
+  "name": "fishing_to_scoop",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

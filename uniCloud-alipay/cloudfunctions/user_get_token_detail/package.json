@@ -1,0 +1,7 @@
+{
+  "name": "user_get_token_detail",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ad_online_list",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

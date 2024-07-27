@@ -1,0 +1,9 @@
+{
+  "name": "user_update_detail",
+  "dependencies": {
+    "utils": "file:../common/utils"
+  },
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

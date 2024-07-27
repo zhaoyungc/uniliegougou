@@ -1,0 +1,7 @@
+{
+  "name": "fishing_get_detail",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}
